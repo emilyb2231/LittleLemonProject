@@ -1,6 +1,6 @@
 # Little Lemon Restaurant - Responsive Website
 
-# This repository contains the code for a simple yet responsive restaurant website built using **HTML** and **CSS**.
+## This repository contains the code for a simple yet responsive restaurant website built using **HTML** and **CSS**.
 
 ## Overview
 The **Little Lemon** website provides a clean, user-friendly interface for showcasing a restaurant's menu, services, and contact information. It is built with responsiveness in mind, ensuring an excellent user experience on mobile, tablet, and desktop devices.
